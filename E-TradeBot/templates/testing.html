@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ETrade Bot</title>
+        <style>
+            .wrapper {
+                display: grid;
+                padding:100px;
+                grid-template-columns: repeat(4, 1);
+                /*grid-template-rows: repeat(3, 1);*/
+                background-color: #fff;
+                color: #444;
+
+
+            }
+
+            .top-left {
+                color: rgb(5, 5, 5);
+                border-radius: 5px;
+                padding: 20px;
+                font-size: 150%;
+                grid-column: 1;
+                grid-row: 1;
+                
+            }
+
+            .top-right {
+
+                color: rgb(5, 5, 5);
+                border-radius: 5px;
+                padding: 20px;
+                font-size: 150%;
+                grid-column: 2 / 4;
+                text-align: right;
+                grid-row: 1;
+                
+            }
+
+            .bottom {
+                color: rgb(5, 5, 5);
+                border-radius: 5px;
+                /*padding: 20px;*/
+                font-size: 150%;
+                grid-column: 1 / 4;
+                grid-row: 2;
+                border: 2px solid #000;
+            }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <li class="navlink"><a href="/">Home</a></li>
+            <li class="navlink"><a href="/add">Add</a></li>
+        </nav>
+        <div class="wrapper">
+            <div class="top-left">
+                <h4>ammount made</h4>
+                
+            </div>
+            <div class="top-right">
+                <h4>currently watching</h4>
+            </div>
+            <div class="bottom"> 
+                <h1>history</h1>
+                
+            </div>
+        </div>
+    </body>
+</html>
+

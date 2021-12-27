@@ -1,0 +1,12 @@
+P:Somethin to hard
+A:Dont ower thing it
+
+P:2021-12-26 15:18:40,761 - root - ERROR - Caught Exception: line: 45 <class 'RuntimeError'> No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+S:
+@app.before_first_request
+def create_all():
+    '''This function is vary important and is the bane of my existence'''
+    db.create_all()
+
+
+    

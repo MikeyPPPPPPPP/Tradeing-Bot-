@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+        <div class="wrapper">
+            <div class="top-left">
+                <h4>ammount made</h4>
+                {% for item in am %}
+                    <h4>{{item.price}}</h4>
+                {% endfor %}
+
+                
+            </div>
+            <div class="top-right">
+                {% for item in values %}
+                    <h4>currently watching {{item.stock}}</h4>
+                    <li class="small-list">B {{item.buyPrice}}</li>
+                    <li class="small-list">S {{item.sellPrice}}</li>
+                    <li class="small-list">C</li>
+                {% endfor %}
+            </div>
+            <div class="bottom"> 
+                <h1>history</h1>
+                {% for item in history %}
+                    <div class="history-enterys">{{item.stock}} B {{item.buyPrice}} S {{item.sellPrice}}</div>
+                {% endfor %}
+            </div>
+        </div>
+{% endblock %}

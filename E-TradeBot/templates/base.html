@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>ETrade Bot</title>
+        <style>
+            .head {
+                text-align: center;
+            }
+            .wrapper {
+                display: grid;
+                padding:100px;
+                grid-template-columns: repeat(4, 1);
+                /*grid-template-rows: repeat(3, 1);*/
+                background-color: #fff;
+                color: #444;
+
+
+            }
+
+            .top-left {
+                color: rgb(5, 5, 5);
+                border-radius: 5px;
+                padding: 20px;
+                font-size: 150%;
+                grid-column: 1;
+                grid-row: 1;
+                
+            }
+
+            .top-right {
+
+                color: rgb(5, 5, 5);
+                border-radius: 5px;
+                padding: 5px;
+                font-size: 150%;
+                grid-column: 2 / 4;
+                text-align: right;
+                grid-row: 1;
+                
+            }
+            .small-list {
+                padding:3;
+                font-size: 100%;
+            }
+
+            .bottom {
+                color: rgb(5, 5, 5);
+                border-radius: 5px;
+                /*padding: 20px;*/
+                font-size: 150%;
+                grid-column: 1 / 4;
+                grid-row: 2;
+                border: 2px solid #000;
+            }
+
+            .nav {
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            .nav a {
+                float: left;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1 class="head">E-Trade Bot</h1>
+        <nav class="nav">
+            <a href="/">Home</a>
+            <a href="/add">Add</a>
+        </nav>
+        {% block content %}
+        {% endblock %}
+    </body>
+</html>
+

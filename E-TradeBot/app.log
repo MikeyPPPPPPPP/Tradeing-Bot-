@@ -1,0 +1,716 @@
+2021-12-26 15:10:21,806 - root - ERROR - Caught Exception: line: 46 No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:10:40,770 - root - ERROR - Caught Exception: line: 46 No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:12:58,572 - root - ERROR - Caught Exception: line: (46) <class 'RuntimeError'> No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:13:35,659 - root - ERROR - Caught Exception: line: (46) (<class 'RuntimeError'>) (No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.) No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:14:02,764 - root - ERROR - Caught Exception: line: (46) (<class 'RuntimeError'>) (No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.)
+2021-12-26 15:14:31,170 - root - ERROR - Caught Exception: line: 46 <class 'RuntimeError'> No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:15:20,198 - root - ERROR - Caught Exception: line: 47 <class 'RuntimeError'> No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:17:45,245 - root - ERROR - Caught Exception: line: 46 <class 'RuntimeError'> No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:18:40,761 - root - ERROR - Caught Exception: line: 45 <class 'RuntimeError'> No application found. Either work inside a view function or push an application context. See http://flask-sqlalchemy.pocoo.org/contexts/.
+2021-12-26 15:22:29,230 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:24:04,377 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:04] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:08,689 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:08] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:09,322 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:09] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:09,722 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:09] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:09,955 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:09] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:10,171 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:10] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:10,338 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:10] "GET / HTTP/1.1" 200 -
+2021-12-26 15:24:10,539 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:24:10] "GET / HTTP/1.1" 200 -
+2021-12-26 15:25:50,797 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:36:01,725 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:36:07,098 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:36:07] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:36:10,431 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:36:10] "GET / HTTP/1.1" 200 -
+2021-12-26 15:36:14,881 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:36:14] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:47:04,288 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:48:29,529 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:48:44,237 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:44] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:48:52,230 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:52] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:48:53,581 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:53] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:48:53,931 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:53] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:48:54,148 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:54] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:48:54,331 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:54] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:48:54,532 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:48:54] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:49:09,909 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:49:09] "[32mPOST /add HTTP/1.1[0m" 302 -
+2021-12-26 15:49:09,912 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:49:09] "[33mGET /home.html HTTP/1.1[0m" 404 -
+2021-12-26 15:49:51,364 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:49:57,691 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:49:57] "[33mGET /home HTTP/1.1[0m" 404 -
+2021-12-26 15:50:02,422 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:50:02] "[33mGET /home HTTP/1.1[0m" 404 -
+2021-12-26 15:50:10,511 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:50:10] "GET / HTTP/1.1" 200 -
+2021-12-26 15:50:13,753 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:50:13] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:50:21,908 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:50:21] "POST /add HTTP/1.1" 200 -
+2021-12-26 15:57:36,955 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:57:40,360 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:57:40] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:58:02,789 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:58:02] "POST /add HTTP/1.1" 200 -
+2021-12-26 15:59:14,313 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 15:59:16,860 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:59:16] "GET /add HTTP/1.1" 200 -
+2021-12-26 15:59:28,541 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 15:59:28] "POST /add HTTP/1.1" 200 -
+2021-12-26 16:00:50,247 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:00:57,127 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:00:57] "GET / HTTP/1.1" 200 -
+2021-12-26 16:00:58,232 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:00:58] "GET /add HTTP/1.1" 200 -
+2021-12-26 16:01:11,006 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:01:11] "POST /add HTTP/1.1" 200 -
+2021-12-26 16:01:58,135 - root - ERROR - Error 404
+2021-12-26 16:01:58,135 - app - ERROR - Exception on /SGDF [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1492, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1474, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/ctx.py", line 367, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/werkzeug/routing.py", line 2041, in match
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1386, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1326, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 37, in page_not_found
+    return render_template('errors/404.html'), 404
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 148, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 1068, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 997, in get_template
+    return self._load_template(name, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 958, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 59, in get_source
+    return self._get_source_fast(environment, template)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 95, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: errors/404.html
+2021-12-26 16:01:58,140 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:01:58] "[35m[1mGET /SGDF HTTP/1.1[0m" 500 -
+2021-12-26 16:02:28,154 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:02:28] "GET / HTTP/1.1" 200 -
+2021-12-26 16:06:14,224 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:06:14,225 - werkzeug - INFO -  * Restarting with stat
+2021-12-26 16:06:14,510 - werkzeug - WARNING -  * Debugger is active!
+2021-12-26 16:06:14,515 - werkzeug - INFO -  * Debugger PIN: 864-063-397
+2021-12-26 16:06:51,997 - werkzeug - INFO -  * Detected change in '/Users/michaelprovenzano/Desktop/E-TradeBot/app.py', reloading
+2021-12-26 16:06:52,052 - werkzeug - INFO -  * Restarting with stat
+2021-12-26 16:06:52,390 - werkzeug - WARNING -  * Debugger is active!
+2021-12-26 16:06:52,397 - werkzeug - INFO -  * Debugger PIN: 864-063-397
+2021-12-26 16:06:57,138 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:07:18,499 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:07:46,498 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:08:24,880 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:08:44,495 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:09:23,137 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:09:36,425 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:10:50,605 - root - ERROR - Caught Exception: line: 64 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:11:09,532 - root - ERROR - Caught Exception: line: 63 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:11:18,910 - root - ERROR - Caught Exception: line: 63 <class 'OSError'> [Errno 48] Address already in use
+2021-12-26 16:11:28,895 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:11:40,053 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:11:40] "GET / HTTP/1.1" 200 -
+2021-12-26 16:11:42,418 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:11:42] "GET /add HTTP/1.1" 200 -
+2021-12-26 16:11:47,778 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:11:47] "POST /add HTTP/1.1" 200 -
+2021-12-26 16:12:25,577 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:12:30,334 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: stockData.stock
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 58, in add
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1431, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3348, in flush
+    self._flush(objects)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3487, in _flush
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3448, in _flush
+    flush_context.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 244, in save_obj
+    _emit_insert_statements(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1221, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1614, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: stockData.stock
+[SQL: INSERT INTO "stockData" (stock, "buyPrice", "sellPrice") VALUES (?, ?, ?)]
+[parameters: ('sdf', 1, 2)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2021-12-26 16:12:30,347 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:12:30] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 16:12:33,061 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:12:33] "GET /add HTTP/1.1" 200 -
+2021-12-26 16:12:37,173 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:12:37] "GET / HTTP/1.1" 200 -
+2021-12-26 16:14:50,235 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:14:54,367 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:14:54] "GET /add HTTP/1.1" 200 -
+2021-12-26 16:15:02,947 - root - WARNING - New Stock test Added
+2021-12-26 16:15:02,948 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:15:02] "POST /add HTTP/1.1" 200 -
+2021-12-26 16:44:27,023 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:52:19,976 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:52:28,285 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:52:28] "GET / HTTP/1.1" 200 -
+2021-12-26 16:53:11,117 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:53:11] "GET /add HTTP/1.1" 200 -
+2021-12-26 16:53:16,352 - root - WARNING - New Stock dfsv Added
+2021-12-26 16:53:16,352 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:53:16] "POST /add HTTP/1.1" 200 -
+2021-12-26 16:53:18,700 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:53:18] "GET / HTTP/1.1" 200 -
+2021-12-26 16:58:05,548 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 16:58:11,133 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 16:58:11] "GET / HTTP/1.1" 200 -
+2021-12-26 17:00:18,534 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:00:23,579 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 45, in index
+    print(StockInfo.stock)
+AttributeError: 'BaseQuery' object has no attribute 'stock'
+2021-12-26 17:00:23,580 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:00:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-12-26 17:01:24,037 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:01:26,819 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:01:26] "GET / HTTP/1.1" 200 -
+2021-12-26 17:02:41,013 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:02:46,418 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 46, in index
+    print(StockInfo.stock)
+AttributeError: 'BaseQuery' object has no attribute 'stock'
+2021-12-26 17:02:46,420 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:02:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-12-26 17:03:59,610 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:04:03,227 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:04:03] "GET / HTTP/1.1" 200 -
+2021-12-26 17:06:09,422 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:06:12,695 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:06:12] "GET / HTTP/1.1" 200 -
+2021-12-26 17:08:31,609 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:08:34,746 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:08:34] "GET /add HTTP/1.1" 200 -
+2021-12-26 17:08:42,336 - root - WARNING - New Stock tcp Added
+2021-12-26 17:08:42,338 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 63, in add
+    return render_template('home.html')
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 147, in render_template
+    return _render(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 128, in _render
+    rv = template.render(context)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 925, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/home.html", line 1, in top-level template code
+    {% extends "base.html" %}
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/base.html", line 79, in top-level template code
+    {% block content %}
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/home.html", line 9, in block 'content'
+    <h4>currently watching {{item.stock}}</h4>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 474, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'item' is undefined
+2021-12-26 17:08:42,340 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:08:42] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 17:09:01,988 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:09:01] "GET / HTTP/1.1" 200 -
+2021-12-26 17:11:39,688 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:11:46,105 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:11:46] "GET / HTTP/1.1" 200 -
+2021-12-26 17:13:11,808 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:13:15,323 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:13:15] "GET / HTTP/1.1" 200 -
+2021-12-26 17:14:58,831 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:15:02,045 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:15:02] "GET / HTTP/1.1" 200 -
+2021-12-26 17:17:33,898 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:17:36,725 - root - WARNING - Returning Info A Stock
+2021-12-26 17:17:36,728 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 46, in index
+    return render_template('home.html', values=StockInfo)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 148, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 1068, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 997, in get_template
+    return self._load_template(name, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 958, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/loaders.py", line 137, in load
+    code = environment.compile(source, name, filename)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 757, in compile
+    self.handle_exception(source=source_hint)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 925, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/home.html", line 12, in template
+    <li class="small-list">S {{item.sellPrice</li>
+jinja2.exceptions.TemplateSyntaxError: unexpected '/'
+2021-12-26 17:17:36,730 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:17:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-12-26 17:18:11,524 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:18:16,451 - root - WARNING - Returning Info A Stock
+2021-12-26 17:18:16,457 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:18:16] "GET / HTTP/1.1" 200 -
+2021-12-26 17:26:35,384 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:26:42,029 - root - WARNING - Returning Info A Stock
+2021-12-26 17:26:42,032 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 46, in index
+    return render_template('home.html', values=StockInfo)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 148, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 1068, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 997, in get_template
+    return self._load_template(name, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 958, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/loaders.py", line 137, in load
+    code = environment.compile(source, name, filename)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 757, in compile
+    self.handle_exception(source=source_hint)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 925, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/home.html", line 20, in template
+    {% endfor}
+jinja2.exceptions.TemplateSyntaxError: unexpected '}'
+2021-12-26 17:26:42,034 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:26:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-12-26 17:27:12,621 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:27:15,889 - root - WARNING - Returning Info A Stock
+2021-12-26 17:27:15,896 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:27:15] "GET / HTTP/1.1" 200 -
+2021-12-26 17:27:22,014 - root - WARNING - Returning Info A Stock
+2021-12-26 17:27:22,014 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:27:22] "GET / HTTP/1.1" 200 -
+2021-12-26 17:27:33,025 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 17:27:36,294 - root - WARNING - Returning Info A Stock
+2021-12-26 17:27:36,301 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 17:27:36] "GET / HTTP/1.1" 200 -
+2021-12-26 18:38:50,145 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 18:39:01,263 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 43, in index
+    currentStockId = [x for x in StockData.query.all()][0]
+IndexError: list index out of range
+2021-12-26 18:39:01,264 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:39:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-12-26 18:41:53,494 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 18:41:55,259 - root - WARNING - Database May Be Empty
+2021-12-26 18:41:55,265 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:41:55] "GET / HTTP/1.1" 200 -
+2021-12-26 18:42:11,681 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:42:11] "GET /add HTTP/1.1" 200 -
+2021-12-26 18:42:19,873 - root - WARNING - New Stock AAPL Added
+2021-12-26 18:42:19,874 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:42:19] "POST /add HTTP/1.1" 200 -
+2021-12-26 18:43:22,075 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 18:43:26,848 - root - WARNING - Returning Info On A Stock
+2021-12-26 18:43:26,855 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:43:26] "GET / HTTP/1.1" 200 -
+2021-12-26 18:56:09,388 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 18:56:25,205 - root - WARNING - Returning Info On A Stock
+2021-12-26 18:56:25,211 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:56:25] "GET / HTTP/1.1" 200 -
+2021-12-26 18:56:26,229 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:56:26] "GET /add HTTP/1.1" 200 -
+2021-12-26 18:56:33,876 - root - WARNING - New Stock AMC Added
+2021-12-26 18:56:33,876 - root - WARNING - New gains 123
+2021-12-26 18:56:33,876 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:56:33] "POST /add HTTP/1.1" 200 -
+2021-12-26 18:59:09,158 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 18:59:16,569 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 18:59:24,679 - root - WARNING - Returning Info On A Stock
+2021-12-26 18:59:24,686 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:59:24] "GET / HTTP/1.1" 200 -
+2021-12-26 18:59:33,016 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:59:33] "GET /add HTTP/1.1" 200 -
+2021-12-26 18:59:38,949 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 70, in add
+    newGains = CurrentGains(price=(gains+current))
+numpy.core._exceptions._UFuncNoLoopError: ufunc 'add' did not contain a loop with signature matching types (dtype('int32'), dtype('S4')) -> None
+2021-12-26 18:59:38,951 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 18:59:38] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 19:00:30,571 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:00:34,993 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:00:35,000 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:00:35] "GET / HTTP/1.1" 200 -
+2021-12-26 19:00:37,632 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:00:37] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:00:45,469 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 70, in add
+    newGains = CurrentGains(price=(gains+current))
+TypeError: unsupported operand type(s) for +: 'int' and 'bytes'
+2021-12-26 19:00:45,470 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:00:45] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 19:01:09,117 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 70, in add
+    newGains = CurrentGains(price=(gains+current))
+TypeError: unsupported operand type(s) for +: 'int' and 'bytes'
+2021-12-26 19:01:09,118 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:01:09] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 19:01:56,318 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:02:00,756 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:02:00] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:02:08,494 - root - WARNING - New Stock AMC Added
+2021-12-26 19:02:08,494 - root - WARNING - New gains 2
+2021-12-26 19:02:08,497 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:02:08] "POST /add HTTP/1.1" 200 -
+2021-12-26 19:02:19,797 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:02:19,799 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:02:19] "GET / HTTP/1.1" 200 -
+2021-12-26 19:02:59,935 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:02:59] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:03:07,138 - root - WARNING - New Stock AAPL Added
+2021-12-26 19:03:07,139 - root - WARNING - New gains 3
+2021-12-26 19:03:07,139 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:03:07] "POST /add HTTP/1.1" 200 -
+2021-12-26 19:03:11,280 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:03:11,281 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:03:11] "GET / HTTP/1.1" 200 -
+2021-12-26 19:07:01,110 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:07:07,153 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:07:07] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:07:15,033 - root - WARNING - New Stock uuraf Added
+2021-12-26 19:07:15,034 - root - WARNING - New gains -11
+2021-12-26 19:07:15,034 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:07:15] "[32mPOST /add HTTP/1.1[0m" 302 -
+2021-12-26 19:07:15,039 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:07:15,043 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:07:15] "GET / HTTP/1.1" 200 -
+2021-12-26 19:07:56,227 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:07:56] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:08:05,493 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: stockData.stock
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 75, in add
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1431, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3348, in flush
+    self._flush(objects)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3487, in _flush
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3448, in _flush
+    flush_context.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 244, in save_obj
+    _emit_insert_statements(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1221, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1614, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: stockData.stock
+[SQL: INSERT INTO "stockData" (stock, "buyPrice", "sellPrice") VALUES (?, ?, ?)]
+[parameters: ('AAPL', 1, 99)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2021-12-26 19:08:05,497 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:08:05] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 19:09:15,862 - root - WARNING - New Stock AAPLj Added
+2021-12-26 19:09:15,862 - root - WARNING - New gains 12
+2021-12-26 19:09:15,863 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:09:15] "[32mPOST /add HTTP/1.1[0m" 302 -
+2021-12-26 19:09:15,867 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:09:15,869 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:09:15] "GET / HTTP/1.1" 200 -
+2021-12-26 19:12:36,126 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:12:36,478 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:12:36,486 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:12:36] "GET / HTTP/1.1" 200 -
+2021-12-26 19:12:36,610 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:12:36,612 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:12:36] "GET / HTTP/1.1" 200 -
+2021-12-26 19:12:53,752 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:12:56,041 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:12:56,048 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 52, in index
+    return render_template('home.html', values=StockInfo, history=StockHistory, am=currentGainss)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 147, in render_template
+    return _render(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/templating.py", line 128, in _render
+    rv = template.render(context)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/jinja2/environment.py", line 925, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/home.html", line 1, in top-level template code
+    {% extends "base.html" %}
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/base.html", line 79, in top-level template code
+    {% block content %}
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/templates/home.html", line 6, in block 'content'
+    {% for item in am %}
+TypeError: 'CurrentGains' object is not iterable
+2021-12-26 19:12:56,050 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:12:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-12-26 19:14:20,913 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:14:26,002 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:14:26,011 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:14:26] "GET / HTTP/1.1" 200 -
+2021-12-26 19:14:28,499 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:14:28] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:14:34,900 - root - WARNING - New Stock GMC Added
+2021-12-26 19:14:34,901 - root - WARNING - New gains -12
+2021-12-26 19:14:34,901 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:14:34] "[32mPOST /add HTTP/1.1[0m" 302 -
+2021-12-26 19:14:34,905 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:14:34,906 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:14:34] "GET / HTTP/1.1" 200 -
+2021-12-26 19:15:45,926 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:15:48,613 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:15:48,623 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:15:48] "GET / HTTP/1.1" 200 -
+2021-12-26 19:15:49,980 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:15:49,982 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:15:49] "GET / HTTP/1.1" 200 -
+2021-12-26 19:15:51,866 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:15:51] "GET /add HTTP/1.1" 200 -
+2021-12-26 19:15:57,735 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: stockData.stock
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 79, in add
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1431, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3348, in flush
+    self._flush(objects)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3487, in _flush
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3448, in _flush
+    flush_context.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 244, in save_obj
+    _emit_insert_statements(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1221, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1614, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: stockData.stock
+[SQL: INSERT INTO "stockData" (stock, "buyPrice", "sellPrice") VALUES (?, ?, ?)]
+[parameters: ('GMC', 21, 32)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2021-12-26 19:15:57,739 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:15:57] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 19:16:34,539 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-26 19:16:37,602 - app - ERROR - Exception on /add [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.IntegrityError: UNIQUE constraint failed: stockData.stock
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/michaelprovenzano/Desktop/E-TradeBot/app.py", line 79, in add
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1431, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3348, in flush
+    self._flush(objects)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3487, in _flush
+    with util.safe_reraise():
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3448, in _flush
+    flush_context.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 244, in save_obj
+    _emit_insert_statements(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1221, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1614, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: stockData.stock
+[SQL: INSERT INTO "stockData" (stock, "buyPrice", "sellPrice") VALUES (?, ?, ?)]
+[parameters: ('GMC', 21, 32)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2021-12-26 19:16:37,607 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:16:37] "[35m[1mPOST /add HTTP/1.1[0m" 500 -
+2021-12-26 19:17:09,122 - root - WARNING - New Stock GMCb Added
+2021-12-26 19:17:09,122 - root - WARNING - New gains 182
+2021-12-26 19:17:09,122 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:17:09] "[32mPOST /add HTTP/1.1[0m" 302 -
+2021-12-26 19:17:09,127 - root - WARNING - Returning Info On A Stock
+2021-12-26 19:17:09,137 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2021 19:17:09] "GET / HTTP/1.1" 200 -
